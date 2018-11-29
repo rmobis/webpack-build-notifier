@@ -29,7 +29,7 @@
   "dependencies": {
     "ansi-regex": "^2.0.0",
     "strip-ansi": "^3.0.1",
-    "node-notifier": "5.2.1"
+    "node-notifier": "github:rmobis/node-notifier"
   },
   "devDependencies": {
     "babel-core": "^6.26.3",
